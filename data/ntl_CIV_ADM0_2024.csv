@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+2848817B75463690839637,Côte d’Ivoire,320602,1303012,351576,86600.9,1.09661,0.269818,0,0.636478,45.4426,49101.1,0.153153,1299.98,0.0040548,2.5964e+07,2.59582e+07,1.53894e+07,1.05688e+07,0.592852,80.9853,0.0135409,0.934515,0.740623,6.03421,1,1,1
